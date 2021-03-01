@@ -1,0 +1,32 @@
+{
+    "img_src": {
+        "0": "https:\/\/webscraper.io\/images\/test-sites\/e-commerce\/items\/cart2.png",
+        "1": "https:\/\/webscraper.io\/images\/test-sites\/e-commerce\/items\/cart2.png",
+        "2": "https:\/\/webscraper.io\/images\/test-sites\/e-commerce\/items\/cart2.png"
+    },
+    "price": {
+        "0": "1366.32",
+        "1": "469.10",
+        "2": "1338.37"
+    },
+    "name": {
+        "0": "Toshiba Portege...",
+        "1": "Acer Aspire ES1-...",
+        "2": "Dell Latitude 54..."
+    },
+    "description": {
+        "0": "Toshiba Portege X20W-D-10V Black\/Blue, 12.5\" FHD Touch, Core i7-7500U, 8GB, 512GB SSD, Windows 10 Pro",
+        "1": "Acer Aspire ES1-572 Black, 15.6\" HD, Core i3-6006U, 4GB, 128GB SSD, Windows 10 Home",
+        "2": "Dell Latitude 5480, 14\" FHD, Core i7-7600U, 8GB, 256GB SSD, Linux + Windows 10 Home"
+    },
+    "rating": {
+        "0": "1",
+        "1": "3",
+        "2": "2"
+    },
+    "reviews": {
+        "0": "11",
+        "1": "5",
+        "2": "11"
+    }
+}
